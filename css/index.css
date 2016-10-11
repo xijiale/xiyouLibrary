@@ -1,0 +1,15 @@
+.fullWidth{
+	width: 100%;
+}
+.width90{
+	width: 90%;
+	margin: 0 auto;
+}
+.card{
+	background-color: #FAFAFA;
+}
+.searchH3{
+	margin: 0;
+	text-align: center;
+	font-weight: 100;
+}
